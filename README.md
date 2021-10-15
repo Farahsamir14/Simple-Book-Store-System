@@ -1,3 +1,3 @@
 # Simple-Book-Store-System
-First Year Project
+Structured Programming Project -First Year
 Book Store System using Linked List
